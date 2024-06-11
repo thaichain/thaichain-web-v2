@@ -44,6 +44,8 @@ npm run dev
 <pre>
 ├── <a href="https://github.com/nidz-the-fact/thaichain-web-v2/blob/main/app/page.tsx"><b>app/page.tsx</b> - Home page and is the main display page.</a>
 ├── <a href="https://github.com/nidz-the-fact/thaichain-web-v2/tree/main/components"><b>components</b> - All components each part.</a>
+├──── <a href="https://github.com/nidz-the-fact/thaichain-web-v2/blob/main/components/menu.tsx#L34-L39"><b>Menu</b> - Header menu navbar.</a>
+├──── <a href="https://github.com/nidz-the-fact/thaichain-web-v2/blob/main/components/animated.tsx#L28-L33"><b>Our Clients</b> - Add more.</a>
 ├── <a href=""><b>config/index.tsx</b> - Configure Web3 Blockchain connection with Walletconnect.</a>
 ├── <a href=""><b>public</b> - All external files such as images.</a>
 </pre>
