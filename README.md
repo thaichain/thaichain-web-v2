@@ -1,3 +1,65 @@
+<p align="center">
+  <a href="https://linktr.ee/nid_z">
+      <picture>
+        <img alt="logo" src="https://github.com/nidz-the-fact/thaichain-web-v2/blob/main/tch-cover.png" width="50%" height="150">
+      </picture>
+</a>
+</p>
+
+<p align="center">
+  ThaiShield the security audits service. by ThaiChain 2.0 (Website v.2)
+<p>
+
+<p align="center">
+<a href="https://www.thaichain.io/">
+  <picture>
+    <img alt="logo" src="https://png.pngtree.com/png-vector/20190319/ourmid/pngtree-vector-web-icon-png-image_848026.jpg" width="auto" height="50">
+  </picture>
+</a>
+<a href="https://www.facebook.com/thaichain.io">
+  <picture>
+    <img alt="logo" src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50">
+  </picture>
+</a>
+<a href="https://github.com/thaichain">
+  <picture>
+    <img alt="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" width="auto" height="50">
+  </picture>
+</a>
+</p>
+
+## 🖥️ Start
+
+```
+npm install
+```
+*note: https://nodejs.org/en*
+
+```
+npm run dev
+```
+
+## ⚙️ Settings
+
+<pre>
+├── <a href="https://github.com/nidz-the-fact/thaichain-web-v2/blob/main/app/page.tsx"><b>app/page.tsx</b> - Home page and is the main display page.</a>
+├── <a href="https://github.com/nidz-the-fact/thaichain-web-v2/tree/main/components"><b>components</b> - All components each part.</a>
+├── <a href=""><b>config/index.tsx</b> - Configure Web3 Blockchain connection with Walletconnect.</a>
+├── <a href=""><b>public</b> - All external files such as images.</a>
+</pre>
+
+## ⚒️ Deployment
+
+```
+npm run build
+```
+
+## Contributing
+
+If you are interested in participating Please organize the code in an orderly manner at # and [contributing & fork](https://github.com/thaichain) **where the pull request will be submitted**
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
