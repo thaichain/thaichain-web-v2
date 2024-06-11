@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://linktr.ee/nid_z">
       <picture>
-        <img alt="logo" src="https://github.com/nidz-the-fact/thaichain-web-v2/blob/main/tch-cover.png" width="50%" height="150">
+        <img alt="logo" src="https://github.com/nidz-the-fact/thaichain-web-v2/blob/main/tch-cover.png" width="50%" height="140">
       </picture>
 </a>
 </p>
@@ -56,7 +56,7 @@ npm run build
 
 ## Contributing
 
-If you are interested in participating Please organize the code in an orderly manner at # and [contributing & fork](https://github.com/thaichain) **where the pull request will be submitted**
+If you are interested in participating Please organize the code in an orderly manner at **#⚙️ Settings** and [contributing & fork](https://github.com/thaichain/thaichain-web-v2/fork) **where the pull request will be submitted**
 
 ---
 
